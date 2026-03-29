@@ -1,7 +1,16 @@
 ### Hi there 👋
+ 
+I'm Eelco, a senior software developer at Aceve Netherlands.
 
-I'm Eelco. I'm a senior developer at Brink Software. 
+I build practical internal tools and AI-enabled workflows with Azure, .NET, C#, TypeScript, and SQL. I care about 
+solutions that get used and make life easier for the people who rely on them.
 
-- 📫 Reach me using [Twitter](https://twitter.com/eelcolos) or [LinkedIn](https://www.linkedin.com/in/eelcolos/)
+- AI agents, LLM integration, structured outputs
+- Azure, .NET, C#, TypeScript, JavaScript, SQL
+- CI/CD, GitHub Actions, Docker, Bicep
+- Software architecture, internal tools, workflow automation
+- Coaching, documentation, problem solving
 
-[![Eelco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eelcolos&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/eelcolos)
+Outside work, I like tinkering with n8n and OpenClaw to prototype ideas quickly.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/eelcolos/) or [dev.to](https://dev.to/eelcolos)
